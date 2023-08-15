@@ -1,2 +1,2 @@
 # spotify
-https://pankaj-2503.github.io/spotify/
+Live Link : https://aesthetic-kashata-eddccd.netlify.app/
